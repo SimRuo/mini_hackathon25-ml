@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+requests
+click
+numpy
+pandas
+scikit-learn
