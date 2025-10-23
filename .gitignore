@@ -1,9 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
-/CsharpApiAnrop/.vs
-/CsharpApiAnrop/bin/Debug/net9.0
-/CsharpApiAnrop/obj/Debug/net9.0
-/CsharpApiAnrop/obj
